@@ -1,0 +1,49 @@
+name: Command ergänzen
+description: Ergänze einen Command im Wiki!
+title: "[COMMAND] "
+labels: ["enhancement"]
+body:
+  - type: input
+    id: command
+    attributes:
+      label: "Command"
+      description: "Wie heißt der Command?"
+      placeholder: "Beispiel: /willkommen"
+    validations:
+      required: true
+  - type: input
+    id: example
+    attributes:
+      label: "Beispiel"
+      description: |
+        Wie wird dieser Command verwendet? Bitte verwende
+        geschweifte Klammern für notwendige Argumente und
+        eckige Klammern für optionale Argumente.
+      placeholder: "Beispiel: /willkommen [Nachricht]"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: "Beschreibung"
+      description: "Beschreibe den Command!"
+      placeholder: "Beispiel: Mit dem Command kann man eine(n) neue(n) Mitspieler(in) begrüßen. Man kann hierzu optional eine Nachricht anfügen."
+    validations:
+      required: true
+  - type: textarea
+    id: aliases
+    attributes:
+      label: "Aliase"
+      description: "Nenne Aliase für den Command, falls existent und bekannt."
+      placeholder: "Beispiel: /konto ist ein Aliases für /geld"
+  - type: checkboxes
+    id: notexists
+    attributes:
+      label: "Überprüfung"
+      description: "Überprüfe, dass der Command noch nicht im Wiki aufgelistet wird!"
+      options:
+        - label: "Der Command wird noch nicht im Wiki aufgeführt."
+          required: true
+        -
+          label: "Ich habe auch überprüft, dass der Command nicht bereits über eine andere Pull Request hinzugefügt wird."
+          required: false
