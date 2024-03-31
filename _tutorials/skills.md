@@ -1,4 +1,5 @@
 ---
+short_name: skills
 title: Skills
 layout: default
 ---

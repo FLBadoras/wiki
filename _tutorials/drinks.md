@@ -1,4 +1,5 @@
 ---
+short_name: drinks
 title: Getränke
 layout: default
 ---

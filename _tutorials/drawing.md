@@ -1,4 +1,5 @@
 ---
+short_name: drawing
 title: Malerei
 layout: default
 ---
