@@ -1,4 +1,6 @@
 ---
 command: "/zurück"
+description: "Reise aus den Farmwelten zurück nach Badoras."
+layout: default
 ---
-Reise aus den Farmwelten zurück nach Badoras.
+{% include command_site.md %}

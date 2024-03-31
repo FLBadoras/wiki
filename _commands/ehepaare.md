@@ -1,4 +1,6 @@
 ---
 command: "/ehepaare"
+description: "Zeige alle Ehepaare an."
+layout: default
 ---
-Zeige alle Ehepaare an.
+{% include command_site.md %}

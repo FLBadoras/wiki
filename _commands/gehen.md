@@ -1,4 +1,6 @@
 ---
 command: "/gehen"
+description: "Gehe in gemäßigtem Tempo durch die Welt."
+layout: default
 ---
-Gehe in gemäßigtem Tempo durch die Welt.
+{% include command_site.md %}

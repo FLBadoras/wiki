@@ -1,4 +1,6 @@
 ---
 command: "/petpickup"
+description: "Lass das Haustier Items aufheben, sofern es entsprechende Skills besitzt."
+layout: default
 ---
-Lass das Haustier Items aufheben, sofern es entsprechende Skills besitzt.
+{% include command_site.md %}

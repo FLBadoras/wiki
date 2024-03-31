@@ -31,7 +31,7 @@ funktionieren auch die Standard-LWC-Befehle noch.
 			<center><pre>{{ command.command }}</pre></center>
 		</td>
 		<td>
-			<center>{{ command.content }}</center>
+			<center>{{ command.description }}</center>
 		</td>
 		<td>
 			<center><pre>{{ command.aliases }}</pre></center>

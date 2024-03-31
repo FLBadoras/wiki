@@ -1,5 +1,6 @@
 ---
 command: "/uhrzeit"
+description: "Zeige die Uhrzeit im Spiel an. Achtung: Diese unterscheidet sich möglicherweise von der Uhrzeit im \"echten\" Leben!"
+layout: default
 ---
-Zeige die Uhrzeit im Spiel an. _Achtung: Diese unterscheidet sich möglicherweise
-von der Uhrzeit im "echten" Leben!_
+{% include command_site.md %}

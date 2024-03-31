@@ -1,4 +1,6 @@
 ---
 command: "/drehen"
+description: "Dreh' dich im Kreis!"
+layout: default
 ---
-Dreh' dich im Kreis!
+{% include command_site.md %}

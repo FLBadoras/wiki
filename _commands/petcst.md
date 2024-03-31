@@ -1,4 +1,6 @@
 ---
 command: "/petcst"
+description: "Wähle einen Skill für dein Haustier aus."
+layout: default
 ---
-Wähle einen Skill für dein Haustier aus.
+{% include command_site.md %}

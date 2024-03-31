@@ -18,7 +18,9 @@ collections:
   team_members:
     name: Team Members
   commands:
+    permalink: "/:collection/:path/"
     name: Commands
+    output: true
   tutorials:
     permalink: "/:collection/:path/"
     output: true

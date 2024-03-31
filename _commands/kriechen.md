@@ -1,4 +1,6 @@
 ---
 command: "/kriechen"
+description: "Krieche!"
+layout: default
 ---
-Krieche!
+{% include command_site.md %}

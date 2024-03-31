@@ -29,7 +29,7 @@ Im Folgenden findet ihr eine Auflistung aller Commands auf Farmlife: Badoras
 			<center><pre>{{ command.command }}</pre></center>
 		</td>
 		<td>
-			<center>{{ command.content }}</center>
+			<center>{{ command.description }}</center>
 		</td>
 		<td>
 			<center><pre>{{ command.aliases }}</pre></center>

@@ -1,4 +1,6 @@
 ---
 command: "/msg {Name} {Nachricht}"
+description: "Sende eine private Nachricht an eine(n) Mitspieler(in)."
+layout: default
 ---
-Sende eine private Nachricht an eine(n) Mitspieler(in).
+{% include command_site.md %}

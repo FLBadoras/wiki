@@ -1,4 +1,6 @@
 ---
 command: "/r {Nachricht}"
+description: "Antworte auf die letzte Privatnachricht."
+layout: default
 ---
-Antworte auf die letzte Privatnachricht.
+{% include command_site.md %}

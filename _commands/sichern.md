@@ -1,5 +1,7 @@
 ---
 command: "/sichern"
+description: "Sichere Truhen, Türen, etc."
 system: lwc
+layout: default
 ---
-Sichere Truhen, Türen, etc.
+{% include command_site.md %}

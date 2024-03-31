@@ -1,4 +1,6 @@
 ---
 command: "/überweisen {Name} {Betrag}"
+description: "Überweise einem/einer Mitspieler(in) einen bestimmten Geldbetrag."
+layout: default
 ---
-Überweise einem/einer Mitspieler(in) einen bestimmten Geldbetrag.
+{% include command_site.md %}

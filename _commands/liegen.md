@@ -1,5 +1,7 @@
 ---
 command: "/liegen"
+description: "Lege dich hin."
 aliases: "/hinlegen"
+layout: default
 ---
-Lege dich hin.
+{% include command_site.md %}

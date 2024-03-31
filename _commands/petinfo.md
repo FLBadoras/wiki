@@ -1,4 +1,6 @@
 ---
 command: "/petinfo"
+description: "Erhalte Informationen über dein Haustier."
+layout: default
 ---
-Erhalte Informationen über dein Haustier.
+{% include command_site.md %}

@@ -1,5 +1,7 @@
 ---
 command: "/sitzen"
+description: "Setze dich hin."
 aliases: "/hinsetzen"
+layout: default
 ---
-Setze dich hin.
+{% include command_site.md %}

@@ -1,4 +1,6 @@
 ---
 command: "/petname {Name}"
+description: "Benenne dein Haustier."
+layout: default
 ---
-Benenne dein Haustier.
+{% include command_site.md %}

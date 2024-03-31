@@ -1,4 +1,6 @@
 ---
 command: "/petinventory"
+description: "Öffne das Inventar deines Haustieres, falls es einen entsprechenden Skill hat."
+layout: default
 ---
-Öffne das Inventar deines Haustieres, falls es einen entsprechenden Skill hat.
+{% include command_site.md %}

@@ -1,4 +1,6 @@
 ---
 command: "/petrelease"
+description: "Lasse dein Haustier frei, d.h. lösche dein Haustier."
+layout: default
 ---
-Lasse dein Haustier frei, _d.h. lösche dein Haustier_.
+{% include command_site.md %}

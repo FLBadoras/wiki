@@ -1,4 +1,6 @@
 ---
 command: "/hinwerfen"
+description: "Wirf dich elegant auf den Boden!"
+layout: default
 ---
-Wirf dich elegant auf den Boden!
+{% include command_site.md %}

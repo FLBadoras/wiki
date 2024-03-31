@@ -1,4 +1,6 @@
 ---
 command: "/laufen"
+description: "Laufe normal durch die Welt."
+layout: default
 ---
-Laufe normal durch die Welt.
+{% include command_site.md %}

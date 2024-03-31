@@ -1,5 +1,6 @@
 ---
 command: "/willkommen [Nachricht]"
+description: "Begrüße einen neu gejointen Spieler. Du kannst optional eine personalisierte Nachricht ergänzen."
+layout: default
 ---
-Begrüße einen neu gejointen Spieler. Du kannst optional eine personalisierte
-Nachricht ergänzen.
+{% include command_site.md %}

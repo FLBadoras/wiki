@@ -1,4 +1,6 @@
 ---
 command: "/hilfe"
+description: "Rufe das Hilfe-Menü auf."
+layout: default
 ---
-Rufe das Hilfe-Menü auf.
+{% include command_site.md %}

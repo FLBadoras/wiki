@@ -1,4 +1,6 @@
 ---
 command: "/navi"
+description: "Öffne das Navigationssystem."
+layout: default
 ---
-Öffne das Navigationssystem.
+{% include command_site.md %}

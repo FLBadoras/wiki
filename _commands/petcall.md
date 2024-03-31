@@ -1,4 +1,6 @@
 ---
 command: "/petcall"
+description: "Rufe dein Haustier."
+layout: default
 ---
-Rufe dein Haustier.
+{% include command_site.md %}

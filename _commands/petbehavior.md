@@ -1,4 +1,6 @@
 ---
 command: "/petbehavior"
+description: "Ändere das Verhalten deines Haustieres."
+layout: default
 ---
-Ändere das Verhalten deines Haustieres.
+{% include command_site.md %}

@@ -1,4 +1,6 @@
 ---
 command: "/petsendaway"
+description: "Schicke dein Haustier weg, also lasse es despawnen."
+layout: default
 ---
-Schicke dein Haustier weg, _also lasse es despawnen_.
+{% include command_site.md %}

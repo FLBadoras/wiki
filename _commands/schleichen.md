@@ -1,4 +1,6 @@
 ---
 command: "/schleichen"
+description: "Schleiche durch die Welt."
+layout: default
 ---
-Schleiche durch die Welt.
+{% include command_site.md %}

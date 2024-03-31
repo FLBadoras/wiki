@@ -1,5 +1,7 @@
 ---
 command: "/entsichern"
+description: "Entsichere Truhen, Türen, etc."
 system: lwc
+layout: default
 ---
-Entsichere Truhen, Türen, etc.
+{% include command_site.md %}

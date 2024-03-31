@@ -1,4 +1,6 @@
 ---
 command: "/tagebuch"
+description: "Erhalte das Quest-Tagebuch."
+layout: default
 ---
-Erhalte das Quest-Tagebuch.
+{% include command_site.md %}
