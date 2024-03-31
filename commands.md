@@ -2,6 +2,7 @@
 title: Commands
 layout: default
 permalink: /commands
+nav_order: 2
 ---
 
 # Commands

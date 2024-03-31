@@ -2,7 +2,7 @@
 title: Team
 layout: default
 permalink: /team
-
+nav_order: 3
 ---
 
 # Alle Teammitglieder
