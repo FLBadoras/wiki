@@ -7,20 +7,12 @@ body:
     id: command
     attributes:
       label: "Command"
-      description: "Wie heißt der Command?"
-      placeholder: "Beispiel: /willkommen"
-    validations:
-      required: true
-  - type: input
-    id: example
-    attributes:
-      label: "Beispiel"
       description: |
+        Wie heißt dieser Command?
         Wie wird dieser Command verwendet? Bitte verwende
         geschweifte Klammern für notwendige Argumente und
         eckige Klammern für optionale Argumente.
       placeholder: "Beispiel: /willkommen [Nachricht]"
-      value: "Verwendung unbekannt."
     validations:
       required: true
   - type: textarea
@@ -39,6 +31,12 @@ body:
       description: "Nenne Aliase für den Command, falls existent und bekannt."
       placeholder: "Beispiel: /konto ist ein Aliases für /geld"
       value: "Keine Aliase bekannt."
+  - type: input
+    id: systems
+    attributes:
+      label: "Zugehöriges System"
+      description: "Gib an, zu welchem System dieser Befehl zugehörig ist, falls bekannt und vorhanden."
+      value: "Kein System bekannt oder vorhanden."
   - type: checkboxes
     id: notexists
     attributes:
