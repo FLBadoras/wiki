@@ -25,4 +25,4 @@ alkoholischen Getränke hergestellt werden. Der bekannte Prozess der Destillatio
 und Reifung fällt daher hiermit weg._
 
 _Hast du Getränkerezepte von einem NPC erfahren, kannst du sie jederzeit per
-**/info** einsehen._
+**[/info](/commands/info)** einsehen._

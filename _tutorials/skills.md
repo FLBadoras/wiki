@@ -17,7 +17,7 @@ Durch verschiedene Aktionen levelst du verschiedene Skills. Hier ein Beispiel:
 Hackst du Bäume, levelst du deinen Baumfäller-Skill. Hast du einen hohen
 Baumfäller-Skill, fällst du Bäume mit einem Klick oder erhältst doppelt so viele
 Baumstämme als sonst. Eine Übersicht über deine Skills findest du unter
-**/info** oder **/skills**.
+**[/info](/commands/info)** oder **[/skills](/commands/skills)**.
 
 ## Weiterführende Links
 
