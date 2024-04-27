@@ -3,7 +3,7 @@ short_name: skills
 title: Skills
 layout: default
 ---
-# Skills
+# {{ page.title }}
 
 Du hast verschiedene Skills, die du durch die jeweilige Tätigkeit levelst. Je
 höher das Level, desto mehr Fähigkeiten schaltest du frei, die wiederum bei der

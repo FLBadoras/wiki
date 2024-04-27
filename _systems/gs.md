@@ -3,7 +3,7 @@ short_name: gs
 title: Grundstücke
 layout: default
 ---
-# Grundstücke
+# {{ page.title }}
 
 {: .contributing }
 Hier fehlen noch Informationen, vgl. [diese
