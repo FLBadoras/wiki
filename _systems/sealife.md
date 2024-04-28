@@ -3,13 +3,39 @@ short_name: sealife
 title: Meereswesen
 layout: default
 creatures:
+  - name: Eisenaxt
+    found_by: motrellin
+    location: Hauptinsel (Hafen)
   - name: Feuerfisch
     found_by: motrellin
     location: Hauptinsel (Hafen)
   - name: Garnele
     found_by: motrellin
     location: Hauptinsel (Hafen)
+  - name: Holzhacke
+    found_by: motrellin
+    location: Hauptinsel (Hafen)
+  - name: Kugelfisch
+    found_by: motrellin
+    location: Hauptinsel (Hafen)
+  - name: Lederjacke
+    found_by: motrellin
+    location: Hauptinsel (Hafen)
+  - name: Muschel
+    found_by: motrellin
+    location: Hauptinsel (Hafen)
+  - name: Roher Kabeljau
+    found_by: motrellin
+    location: Hauptinsel (Hafen)
+  - name: Roher Lachs
+    found_by: motrellin
+    location: Hauptinsel (Hafen)
+  - name: Sardelle
+    found_by: motrellin
+    location: Hauptinsel (Hafen)
   - name: Seetang
+    found_by: motrellin
+    location: Hauptinsel (Hafen)
     found_by: motrellin
     location: Hauptinsel (Hafen)
   - name: Tintenfisch
