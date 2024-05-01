@@ -3,7 +3,7 @@ short_name: drawing
 title: Malerei
 layout: default
 ---
-# Malerei
+# {{ page.title }}
 
 Du kannst eigene Gemälde anfertigen und sie in deinem Zuhause aufhängen oder an
 andere Spieler verkaufen. Hier sind dir (fast) keine Grenzen gesetzt. Lebe deine
