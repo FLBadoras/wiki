@@ -22,7 +22,6 @@ können:
 - Eine agressive Spinne kann hinter einem Stein erscheinen.
 - Du kannst die Höhlenkrankheit bekommen, wegen der du die Arbeit pausieren
   musst. Hoffentlich passiert nichts schlimmeres...
-- Deine Spitzhacke kann anfangen zu Glühen, Du solltest diese Schnell abkühlen.
-- Du hast dich verletzt mit der Spitzhacke...
+- Wenn du nicht aufpasst, kannst du dich leicht mit der Spitzhacke verletzen.
 
 {% include more_events.md %}
