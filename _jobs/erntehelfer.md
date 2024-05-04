@@ -19,9 +19,14 @@ Beim Farmen können verschiedene Events auftreten:
 - Die Frucht kann dir runterfallen und damit zermatschen.
 - Wenn dir eine Frucht auf den Fuß fällt, musst du diesen beim Plantagenbesitzer
   behandeln lassen.
+- Wenn du dich an einer Frucht schneidest, muss du mit dieser Verletzung beim Plantagenbesitzer
+  behandeln Lassen.
 - Die gepflückte Frucht kann vergammelt sein. Du musst sie dann auf den Kompost
   bringen.
 - Die Plantage kann von Insekten befallen sein, dann muss jemand von der
   Plantage (ein NPC) diese für 2 Minuten bekämpfen.
+- Je höher das Level ist, Desto mehr Früchte kannst du aus einer Frücht
+  Hinausbekommen.
+  
 
 {% include more_events.md %}
