@@ -24,4 +24,12 @@ Beim Farmen können verschiedene Events auftreten:
 - Die Plantage kann von Insekten befallen sein, dann muss jemand von der
   Plantage (ein NPC) diese für 2 Minuten bekämpfen.
 
+## Bonus bei Leveln
+Bei der Arbeit auf dem Plantagen, Sammelst du bei dem Abbauen eine Gewisse erfahrung die man auch EXP nennt! Bei dem ganzen Steig auch dein Level und je höher dein Level desto Besser kommen bestimmte Bonus Aktionen! 
+
+- Je höher du mit dem level Aufstzeigst erhöht sich die möglichkeit auf Bonusfrüchte die bei der Arbeit kommen!
+- Je höher du mit dem level Aufsteigst erhöht sich die möglichekeit auf Bonusitems die bei der Arbeit Droppen!
+- Je höher das level Aufsteigt, desto weniger kommen Negativ Events die dich bei der Arbeit behindern!
+
+  
 {% include more_events.md %}
