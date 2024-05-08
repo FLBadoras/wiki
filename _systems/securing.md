@@ -12,6 +12,7 @@ wichtigsten Befehle auf dem Server mit deutschen Befehlen ersetzt, dennoch
 funktionieren auch die Standard-LWC-Befehle noch.
 
 ## Befehle
+
 {% include selected_cmds.md %}
 
 ## Weiterführende Links
