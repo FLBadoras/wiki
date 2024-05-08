@@ -1,6 +1,6 @@
 ---
 command: "/marry pvpoff"
-description: "Schütze dich vor den Schlägen deiner geliebten Frau."
+description: "Schütze dich vor den Schlägen deiner/deinem Geliebten."
 system: marry
 layout: default
 ---
