@@ -13,6 +13,7 @@ auch alle davon selbst herstellen (bis auf alkoholische Getränke). Dir stehen
 ## Rezepte
 
 Rezepte kann man auf (mindestens) zwei Arten bekommen:
+
 - Man erforscht sie selbst.
 - Manche Rezepte kann man auf unterschiedlichsten Wegen erhalten, z.B. durch
   NPC-Interaktion.

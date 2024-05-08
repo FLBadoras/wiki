@@ -31,6 +31,7 @@ hinausgehen, kann _nur_ der Support selbst helfen.
 ## Kontaktmöglichkeiten
 
 Unser Support kann auf verschiedenen Wegen erreicht werden:
+
 - Auf unserem Discord findest du den Channel "#fragen-und-hilfe" im Bereich Support.
 - Auf unserem Discord findest du den Channel "#supportticket" im Bereich Support.
 - Ingame kannst du den Befehl [`/h`](/commands/h) nutzen. Mehr Informationen

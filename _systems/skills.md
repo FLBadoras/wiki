@@ -20,6 +20,7 @@ Baumstämme als sonst. Eine Übersicht über deine Skills findest du unter
 **[/info](/commands/info)** oder **[/skills](/commands/skills)**.
 
 ## Befehle
+
 {% include selected_cmds.md %}
 
 ## Weiterführende Links

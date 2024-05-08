@@ -36,6 +36,7 @@ möglich. Dort erstellt man eine Markdown-Datei, die wie der Command heißt, z.B
 `willkommen.md`. Dabei ist `.md` die Dateiendung für Markdown-Dateien.
 
 Die Datei sollte wie folgt aufgebaut sein:
+
 ```md
 ---
 command: #Required, name of the command
@@ -48,6 +49,7 @@ Beschreibung des Commands
 ```
 
 Commits sollten mit dem Schlüsselwort `[CMD]` beginnen. Hier ein paar Beispiele:
+
 - `[CMD] Added /willkommen`: Dieser Commit fügt dem Wiki den Command
   `/willkommen` hinzu. Die Datei heißt vermutlich willkommen.md
 - `[CMD] Updated /willkommen`: Der Eintrag `willkommen.md` wurde aktualisiert.
@@ -70,6 +72,7 @@ Ausnahme von Überschriften verwendet werden.
 ```
 
 Die Datei sollte nach folgendem Schema benannt werden:
+
 1. Zunächst eine Ziffer im Sinne des `section`-Eintrages:
 | `section` | Ziffer |
 | ---- | ---- |

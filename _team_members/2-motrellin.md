@@ -11,6 +11,7 @@ contributions:
   - "System-Administration"
 ---
 Hier ein paar zufällige und unvollständie _Infos_ über mich:
+
 - Leitung des ehemals authentischsten Roleplayservers im deutschsprachigen Raum.
 - [Coq](https://coq.inria.fr)-Enthusiast.
 - [Free](https://www.fsf.org/about/what-is-free-software) & [Open](https://opensource.org/osd) Software Lover.
