@@ -1,5 +1,5 @@
 command: "/marry pvpon"
-description: "Erlaube Körperliche Gewalt, zwischen dir und deiner/deinem geliebten."
+description: "Erlaube körperliche Gewalt zwischen dir und deiner/deinem Geliebten."
 layout: default
 ---
 
