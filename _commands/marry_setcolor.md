@@ -1,5 +1,5 @@
 command: "/marry setcolor {Farbe}"
-description: "Setze die Farbe des Herzens vor deinem Namen.(Dieses wird nur in einer aktuellen Ehe angezeigt)"
+description: "Setze die Farbe des Herzens vor deinem Namen. Dieses wird nur angezeigt, wenn du verheiratet bist."
 layout: default
 ---
 
