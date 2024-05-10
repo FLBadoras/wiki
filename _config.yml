@@ -27,6 +27,9 @@ collections:
   jobs:
     permalink: "/:collection/:path/"
     output: true
+  lists:
+    permalink: "/:collection/:path/"
+    output: true
 
 just_the_docs:
   collections:
@@ -35,6 +38,9 @@ just_the_docs:
       nav_fold: true
     jobs:
       name: Jobs
+      nav_fold: true
+    lists:
+      name: Listen
       nav_fold: true
 
 callouts:
