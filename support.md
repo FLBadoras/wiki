@@ -32,8 +32,10 @@ hinausgehen, kann _nur_ der Support selbst helfen.
 
 Unser Support kann auf verschiedenen Wegen erreicht werden:
 
-- Auf unserem Discord findest du den Channel "#fragen-und-hilfe" im Bereich Support.
-- Auf unserem Discord findest du den Channel "#supportticket" im Bereich Support.
+- Auf unserem Discord findest du den Channel "#fragen-und-hilfe" im Bereich
+  Support.
+- Auf unserem Discord findest du den Channel "#supportticket" im Bereich
+  Support.
 - Ingame kannst du den Befehl [`/h`](/commands/h) nutzen. Mehr Informationen
   hierzu findest du [hier](/systems/chat/#hilfe-chat).
 
@@ -44,15 +46,19 @@ helfen.
 
 ## Punktesystem
 
-Regelverstöße können mit sogenannten Verwanungspunkten geahndet werden. Unser spezielles
-Punktesystem hat eine variable Spanne, wobei wir uns hier aber grundsätzlich nach einem vordefiniertem
-internen Richtwert orienterieren. Es kommen folgende Limite für unsere Verwarnungspunkte zur Geltung:
+Regelverstöße können mit sogenannten Verwanungspunkten geahndet werden. Unser
+spezielles Punktesystem hat eine variable Spanne, wobei wir uns hier aber
+grundsätzlich nach einem vordefiniertem internen Richtwert orienterieren. Es
+kommen folgende Limite für unsere Verwarnungspunkte zur Geltung:
 
-- Bei einer aktiven Punktzahl von 50 Punkten gibt es eine mündliche Verwarnung in einem persönlichen Gespräch.
+- Bei einer aktiven Punktzahl von 50 Punkten gibt es eine mündliche Verwarnung
+  in einem persönlichen Gespräch.
 - Bei einer aktiven Punktzahl von 70 Punkten gibt es einen 24h Ban.
 - Bei einer aktiven Punktzahl von 100 Punkten gibt es einen permanenten Ban.
 
-Verwarnungen haben generell ein Ablaufdatum von 4 Monaten. **Achtung**: Ein permanenter Ban wird natürlich _nicht_ entfernt, weil eine Verwarnung nach 4 Monaten abgelaufen ist. Schließlich ist der Ban permanent!
+Verwarnungen haben generell ein Ablaufdatum von 4 Monaten. **Achtung**: Ein
+permanenter Ban wird natürlich _nicht_ entfernt, weil eine Verwarnung nach 4
+Monaten abgelaufen ist. Schließlich ist der Ban permanent!
 
 ## Unser Support- und Helfenden-Team
 

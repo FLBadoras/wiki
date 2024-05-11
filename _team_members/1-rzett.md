@@ -15,4 +15,5 @@ responsibilities:
 contributions:
   - "Wiki"
 ---
-Langjährige Leitung des ehemals authentischsten Roleplayservers im deutschsprachigen Raum und Gründer des FarmLife-Projekts.
+Langjährige Leitung des ehemals authentischsten Roleplayservers im
+deutschsprachigen Raum und Gründer des FarmLife-Projekts.
