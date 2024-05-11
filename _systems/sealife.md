@@ -12,10 +12,10 @@ creatures:
   - name: Kaviar
     found_by: Agent_cake_HD
     location: Teich bei Lieferpunkt 6 
-    name: Krabbe
+  - name: Krabbe
     found_by: Agent_cake_HD
     location: Teich bei Lieferpunkt 6
-    name: Muschel
+  - name: Muschel
     found_by: Agent_cake_HD
     location: Teich gegenüber Großhandel
   - name: Sardelle
