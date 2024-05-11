@@ -9,9 +9,24 @@ creatures:
   - name: Garnele
     found_by: motrellin
     location: Hauptinsel (Hafen)
+  - name: Kaviar
+    found_by: Agent_cake_HD
+    location: Teich bei Lieferpunkt 6 
+    name: Krabbe
+    found_by: Agent_cake_HD
+    location: Teich bei Lieferpunkt 6
+    name: Muschel
+    found_by: Agent_cake_HD
+    location: Teich gegenüber Großhandel
+  - name: Sardelle
+    found_by: Agent_cake_HD
+    location: Farminsel (Hafen)
   - name: Seetang
     found_by: motrellin
     location: Hauptinsel (Hafen)
+  - name: Thunfisch
+    found_by: Agent_cake_HD
+    location: Farminsel (Hafen)
   - name: Tintenfisch
     found_by: motrellin
     location: Hauptinsel (Hafen)
