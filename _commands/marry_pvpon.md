@@ -1,3 +1,4 @@
+---
 command: "/marry pvpon"
 description: "Erlaube körperliche Gewalt zwischen dir und deiner/deinem Geliebten."
 system: marry
