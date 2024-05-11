@@ -11,7 +11,7 @@ creatures:
     location: Hauptinsel (Hafen)
   - name: Kaviar
     found_by: Agent_cake_HD
-    location: Teich bei Lieferpunkt 6 
+    location: Teich bei Lieferpunkt 6
   - name: Krabbe
     found_by: Agent_cake_HD
     location: Teich bei Lieferpunkt 6
