@@ -3,31 +3,32 @@ short_name: sealife
 title: Meereswesen
 layout: default
 
-table_headers:
-  - Meereswesen
-  - Gefunden von
-  - Fundort
-table_objects:
-  - attributes:
-      - Feuerfisch
-      - motrellin
-      - Hauptinsel (Hafen)
-  - attributes:
-      - Garnele
-      - motrellin
-      - Hauptinsel (Hafen)
-  - attributes:
-      - Seetang
-      - motrellin
-      - Hauptinsel (Hafen)
-  - attributes:
-      - Tintenfisch
-      - motrellin
-      - Hauptinsel (Hafen)
-  - attributes:
-      - Tilapia
-      - motrellin
-      - Hauptinsel (Hafen)
+table:
+  headers:
+    - Meereswesen
+    - Gefunden von
+    - Fundort
+  objects:
+    - attributes:
+        - Feuerfisch
+        - motrellin
+        - Hauptinsel (Hafen)
+    - attributes:
+        - Garnele
+        - motrellin
+        - Hauptinsel (Hafen)
+    - attributes:
+        - Seetang
+        - motrellin
+        - Hauptinsel (Hafen)
+    - attributes:
+        - Tintenfisch
+        - motrellin
+        - Hauptinsel (Hafen)
+    - attributes:
+        - Tilapia
+        - motrellin
+        - Hauptinsel (Hafen)
 ---
 # {{ page.title }}
 

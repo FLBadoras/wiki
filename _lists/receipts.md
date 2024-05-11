@@ -2,10 +2,11 @@
 title: Rezepte
 layout: default
 
-table_headers:
-  - Produkt
-  - Erforscht von
-table_objects:
+table:
+  headers:
+    - Produkt
+    - Erforscht von
+  objects:
 ---
 # {{ page.title }}
 

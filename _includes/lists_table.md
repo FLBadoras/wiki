@@ -4,13 +4,13 @@ alphabetisch sortiert werden, bitte beim Einfügen beachten.
 
 <table>
  <tr>
-  {% for header in page.table_headers %}
+  {% for header in page.table.headers %}
   <th>
    {{ header }}
   </th>
   {% endfor %}
  </tr>
- {% for object in page.table_objects %}
+ {% for object in page.table.objects %}
  <tr>
   {% for attr in object.attributes %}
   <td>
