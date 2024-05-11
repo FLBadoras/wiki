@@ -18,9 +18,29 @@ table:
         - motrellin
         - Hauptinsel (Hafen)
     - attributes:
+        - Kaviar
+        - Agent_cake_HD
+        - Teich bei Lieferpunkt 6
+    - attributes:
+        - Krabbe
+        - Agent_cake_HD
+        - Teich bei Lieferpunkt 6
+    - attributes:
+        - Muschel
+        - Agent_cake_HD
+        - Teich gegenüber Großhandel
+    - attributes:
+        - Sardelle
+        - Agent_cake_HD
+        - Farminsel (Hafen)
+    - attributes:
         - Seetang
         - motrellin
         - Hauptinsel (Hafen)
+    - attributes:
+        - Thunfisch
+        - Agent_cake_HD
+        - Farminsel (Hafen)
     - attributes:
         - Tintenfisch
         - motrellin
