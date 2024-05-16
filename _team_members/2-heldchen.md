@@ -6,4 +6,5 @@ responsibilities:
   - "Architektur"
   - "NPC-Skins"
 ---
-Langjährige Architektin des ehemals authentischsten Roleplayservers im deutschsprachigen Raum und Mitgründerin des FarmLife-Projekts.
+Langjährige Architektin des ehemals authentischsten Roleplayservers im
+deutschsprachigen Raum und Mitgründerin des FarmLife-Projekts.

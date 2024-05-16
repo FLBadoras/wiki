@@ -10,8 +10,10 @@ nav_order: 2
 Im Folgenden findet ihr eine Auflistung aller Commands auf Farmlife: Badoras
 (ohne Garantie auf Vollständigkeit). Wir verwenden dabei folgende Konvention:
 
-- Notwendige Argumente werden mit geschweiften Klammern dargestellt. Bsp.: `{Argument}`
-- Optionale Argumente werden mit eckigen Klammern dargestellt. Bsp.: `[Argument]`
+- Notwendige Argumente werden mit geschweiften Klammern dargestellt.
+  Bsp.: `{Argument}`
+- Optionale Argumente werden mit eckigen Klammern dargestellt.
+  Bsp.: `[Argument]`
 
 {: .contributing }
 Weitere Commands können unter

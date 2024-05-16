@@ -10,7 +10,8 @@
    Aliases
   </th>
  </tr>
- {% assign selected_commands = site.commands | where: 'system', page.short_name %}
+ {% assign selected_commands = site.commands | where: 'system', page.short_name
+ %}
  {% for command in selected_commands %}
  <tr>
   <td>

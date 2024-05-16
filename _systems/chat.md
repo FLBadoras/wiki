@@ -43,7 +43,11 @@ Im Event-Chat kann über aktuell laufende Events geschrieben werden.
 
 ## Emotes
 
-Mit `/e` werden dir die verschiedenen Emotes, welche du im Chat nutzen kannst, in einem Buch angezeigt. Zur Verwendung kann man im Anschluss `/e` mit der Beschreibung des Emotes verwenden, um dieses im Chat auszuwählen und nutzen zu können. Hinter `/e` kannst du normal deine Nachricht tippen, erhältst allerdings bei jedem Wort Vorschläge mit passenden Emotebezeichnungen.
+Mit `/e` werden dir die verschiedenen Emotes, welche du im Chat nutzen kannst,
+in einem Buch angezeigt. Zur Verwendung kann man im Anschluss `/e` mit der
+Beschreibung des Emotes verwenden, um dieses im Chat auszuwählen und nutzen zu
+können. Hinter `/e` kannst du normal deine Nachricht tippen, erhältst allerdings
+bei jedem Wort Vorschläge mit passenden Emotebezeichnungen.
 
 ## Befehle
 
