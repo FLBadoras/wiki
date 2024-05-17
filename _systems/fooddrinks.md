@@ -13,6 +13,7 @@ auch alle davon selbst herstellen (bis auf alkoholische Getränke). Dir stehen
 ## Rezepte
 
 Rezepte kann man auf (mindestens) zwei Arten bekommen:
+
 - Man erforscht sie selbst.
 - Manche Rezepte kann man auf unterschiedlichsten Wegen erhalten, z.B. durch
   NPC-Interaktion.
@@ -32,7 +33,8 @@ und vielseitig. Hierzu ein Zitat von Rzett:
 
 Entsprechend lassen sich die vielseitigen Möglichkeiten hier schlecht in aller
 Fülle aufschreiben. Einen Grundsatz haben aber alle (?) Rezepte gemein: Man
-benötigt eine **Werkbank** zum Kochen, wie es ja auch in der Realität üblich ist.
+benötigt eine **Werkbank** zum Kochen, wie es ja auch in der Realität üblich
+ist.
 
 ## Getränke herstellen
 

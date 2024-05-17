@@ -36,6 +36,7 @@ möglich. Dort erstellt man eine Markdown-Datei, die wie der Command heißt, z.B
 `willkommen.md`. Dabei ist `.md` die Dateiendung für Markdown-Dateien.
 
 Die Datei sollte wie folgt aufgebaut sein:
+
 ```md
 ---
 command: #Required, name of the command
@@ -48,6 +49,7 @@ Beschreibung des Commands
 ```
 
 Commits sollten mit dem Schlüsselwort `[CMD]` beginnen. Hier ein paar Beispiele:
+
 - `[CMD] Added /willkommen`: Dieser Commit fügt dem Wiki den Command
   `/willkommen` hinzu. Die Datei heißt vermutlich willkommen.md
 - `[CMD] Updated /willkommen`: Der Eintrag `willkommen.md` wurde aktualisiert.
@@ -70,6 +72,7 @@ Ausnahme von Überschriften verwendet werden.
 ```
 
 Die Datei sollte nach folgendem Schema benannt werden:
+
 1. Zunächst eine Ziffer im Sinne des `section`-Eintrages:
 | `section` | Ziffer |
 | ---- | ---- |
@@ -90,3 +93,48 @@ Hier ein beispielhaftes Team mit den zugehörigen Dateinamen:
 | caaaarl | `team` | `2-caaaarl.md` |
 | carsten | `team` | `2-carsten.md` |
 | gustav | `support` | `3-gustav.md` |
+
+### Listen
+
+Listen sind unter `_lists/` zu finden. Sie brauchen die folgenden
+defininierenden Elemente:
+
+```yml
+table:
+  headers: # List of table headers
+  objects: # List of objects. A object has one key "attributes" which is a list
+  of string referring to the table headers
+    - attributes: # List of attributes
+```
+
+Ein Beispiel könnte wie folgt aussehen:
+
+```md
+---
+title: Farben
+layout: default
+
+table:
+  headers:
+    - Farbe
+    - Helligkeit
+    - Englische Bezeichnung
+  objects:
+    - attributes:
+        - Blau
+        - hell
+        - blue
+    - attributes:
+        - Rot
+        - dunkel
+        - red
+---
+# {{ page.title }}
+
+Hier entsteht eine Liste von Farben.
+
+{% include lists_table.md %}
+```
+
+Eine Liste kann also entsprechend erweitert werden, indem neue Objekte ergänzt
+werden.
