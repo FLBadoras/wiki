@@ -26,6 +26,10 @@ table:
         - Agent_cake_HD
         - Teich bei Lieferpunkt 6
     - attributes:
+        - Kugelfisch
+        - motrellin
+        - Hauptinsel (Hafen)
+    - attributes:
         - Muschel
         - Agent_cake_HD
         - Teich gegenüber Großhandel
