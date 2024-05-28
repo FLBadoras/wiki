@@ -3,6 +3,8 @@
 
 /.github/ @motrellin
 .gitignore @motrellin
+.markdownlint.yml @motrellin
+.pre-commit-config.yaml @motrellin
 Gemfile @motrellin
 Gemfile.lock @motrellin
 support.md @motrellin @Ru8ior
