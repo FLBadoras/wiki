@@ -9,6 +9,7 @@ responsibilities:
 contributions:
   - "Quest-Storylines"
   - "System-Administration"
+  - "Einführung des generischen Feminimums im Wiki"
 ---
 Hier ein paar zufällige und unvollständie _Infos_ über mich:
 

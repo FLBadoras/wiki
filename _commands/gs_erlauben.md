@@ -1,6 +1,6 @@
 ---
 command: "/gs erlauben {Name}"
-description: "Erteile anderen Spielenden Baurechte auf das Grundstück oder den Shop, auf/in dem du gerade stehst."
+description: "Erteile anderen Spielerinnen Baurechte auf das Grundstück oder den Shop, auf/in dem du gerade stehst."
 aliases: ["/grundstück erlauben", "/grundstücke erlauben"]
 system: gs
 layout: default

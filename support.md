@@ -10,7 +10,7 @@ Du kommst einmal nicht weiter, trotz aller Informationen im Wiki oder unter
 `/hilfe`? Kein Problem, dafür steht dir unser kompetentes Support-Team gerne zur
 Seite.
 
-Nebenbei hat unser Support auch die Aufgabe, über die Einhaltung des
+Nebenbei haben unsere Supporterinnen auch die Aufgabe, über die Einhaltung des
 Regelwerks zu wachen. Hierbei kommt ein spezielles Punktesystem zur Geltung.
 
 ## Helfer
@@ -18,7 +18,7 @@ Regelwerks zu wachen. Hierbei kommt ein spezielles Punktesystem zur Geltung.
 Die Hemmschwelle ist zu groß, den Support zu kontaktieren und du kommst
 einmal nicht weiter und brauchst schnell greifbare und kompetente Hilfe?
 
-Dann kannst du hierfür unsere Helfer\*innen aufsuchen.
+Dann kannst du hierfür unsere Helferinnen aufsuchen.
 Sie beantworten viele deiner Fragen und unterstützen dich gerne mit all ihrer
 Erfahrung und ihrem Wissen.
 
@@ -41,7 +41,7 @@ Unser Support kann auf verschiedenen Wegen erreicht werden:
 
 {: .note }
 Generell empfiehlt es sich, erst die Möglichkeiten des Communitysupports zu
-nutzen. Bei vielen Fragen können vermutlich andere Spieler\*innen (schneller!)
+nutzen. Bei vielen Fragen können vermutlich andere Spielerinnen (schneller!)
 helfen.
 
 ## Punktesystem
@@ -60,7 +60,7 @@ Verwarnungen haben generell ein Ablaufdatum von 4 Monaten. **Achtung**: Ein
 permanenter Bann wird natürlich _nicht_ entfernt, weil eine Verwarnung nach 4
 Monaten abgelaufen ist. Schließlich ist der Bann permanent!
 
-## Unser Support- und Helfenden-Team
+## Unser Support- und Helferinnen-Team
 
 {% for team_member in site.team_members %}
 {% if team_member.section == "support" %}

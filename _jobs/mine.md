@@ -7,7 +7,7 @@ layout: default
 In der Mine auf Badoras kannst du Kassiterit abbauen. Das kannst du zu Aluminium
 verarbeiten und in der Fabrik Rohstoffe produzieren, mit denen du dann
 Blueprints zu Möbeln und anderen nützlichen Gegenständen verarbeiten kannst. Du
-kannst das Kassiterit aber auch beim Fabrik-Vorarbeiter verkaufen. Der
+kannst das Kassiterit aber auch bei der Fabrik-Vorarbeiterin verkaufen. Der
 Ankaufpreis ändert sich täglich.
 
 Wichtig: In der Mine benötigt man eine eigene Spitzhacke.
@@ -25,11 +25,11 @@ können:
 - Du kannst die Höhlenkrankheit bekommen, wegen der du die Arbeit pausieren
   musst. Hoffentlich passiert nichts schlimmeres...
 - Beim Malochen in der Mine kannst du ausrutschen und dich verletzen. Melde dich
-  dann beim Vorarbeiter, dieser ist bestimmt behilflich.
+  dann bei der Vorarbeiterin, dieser ist bestimmt behilflich.
 - Überarbeite dich und vorallem deine Spitzhacke nicht, diese muss sonst gekühlt
   werden.
 - In der Höhle treiben sich Moskitos rum. RENN!
-- Man kann hinter Steinen Fossilien finden, gib diese bei dem Vorarbeiter ab.
+- Man kann hinter Steinen Fossilien finden, gib diese bei der Vorarbeiterin ab.
   Pass aber bloß auf, dass du das Fossil nicht verlierst.
 - Auch Blumen wachsen in den Höhlen, verwechsel diese nicht mit Rubinen.
 - Leute verlieren allerlei Sachen hinter den Steinen. Was man dort nur finden
