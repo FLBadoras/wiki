@@ -27,3 +27,10 @@ Das gesamte Wiki ist [Open Source](https://opensource.org/osd), den Source Code
 kann man [hier](https://github.com/FLBadoras/wiki) finden. Mitgestalten ist
 gerne gesehen! Falls jemand Hilfe braucht, meldet euch einfach [bei
 uns](/support)!
+
+{: .note }
+Aufgrund der Aktion "Pride Month" des Servers und anderen aktuellen
+Gegebenheiten haben sich die Maintainerinnen dieses Wikis dazu entschieden, das
+Wiki mit Hilfe des  _[generischen
+Feminimums](https://de.wikipedia.org/wiki/Generisches_Femininum)_ umzuschreiben.
+Dies soll zum kritischen Nachdenken anregen.

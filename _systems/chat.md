@@ -28,8 +28,8 @@ Handlungen zumindest im Chat darstellen zu können.
 
 ### Hilfe-Chat
 
-Im Hilfe-Chat können Fragen gestellt werden. Diese können dann sowohl von der
-Community als auch dem [Support](/support) beantwortet werden.
+Im Hilfe-Chat können Fragen gestellt werden. Diese können dann sowohl von
+anderen Spielerinnen als auch dem [Support](/support) beantwortet werden.
 
 ### Auktions-Chat
 

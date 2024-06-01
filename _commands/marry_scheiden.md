@@ -1,6 +1,6 @@
 ---
 command: "/marry scheiden"
-description: "Lasse dich von deinem Lebensgefährten scheiden."
+description: "Lasse dich von deiner Lebensgefährten scheiden."
 system: marry
 layout: default
 ---

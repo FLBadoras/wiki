@@ -6,8 +6,8 @@ layout: default
 # {{ page.title }}
 
 Du kannst eigene Gemälde anfertigen und sie in deinem Zuhause aufhängen oder an
-andere Spieler verkaufen. Hier sind dir (fast) keine Grenzen gesetzt. Lebe deine
-Kreativität aus und zeige allen den Picasso in dir!
+andere Spielerinnen verkaufen. Hier sind dir (fast) keine Grenzen gesetzt. Lebe
+deine Kreativität aus und zeige allen den Picasso in dir!
 
 _Alle Informationen zur Malerei findest du auch Ingame in der Kunstgalerie._
 

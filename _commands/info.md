@@ -1,6 +1,6 @@
 ---
 command: "/info"
-description: "Übersicht und Zentrale der Spielerin bzw. des Spielers."
+description: "Übersicht und Zentrale der Spielerin."
 layout: default
 ---
 {% include command_site.md %}

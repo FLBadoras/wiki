@@ -8,7 +8,7 @@ layout: default
 Du hast verschiedene Skills, die du durch die jeweilige Tätigkeit levelst. Je
 höher das Level, desto mehr Fähigkeiten schaltest du frei, die wiederum bei der
 Durchführung der Tätigkeit gewisse Vorteile ermöglichen. Wir nutzen hierfür
-[mcMMO](https://mcmmo.org/), das vielen Spielern bereits ein Begriff sein
+[mcMMO](https://mcmmo.org/), das vielen Spielerinnen bereits ein Begriff sein
 dürfte.
 
 ## Funktion
