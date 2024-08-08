@@ -41,13 +41,9 @@ ist.
 Heute schon genug getrunken? Auch im Spiel ist trinken wichtig. Deswegen
 erfährst du hier, wie du Getränke selbst herstellen kannst.
 
-Du benötigst neben den **Rezepten** für die Herstellung von Getränken einen
-**Wasserkessel**. Dieser muss sich über einer **aktiven Feuerstelle** befinden
-(bspw. entzündetes Netherrack). Fülle den Kessel mit **Wasser** und den
-entsprechenden **Zutaten** und lasse das Ganze kochen. Die **Kochdauer** ist
-neben der **Zutatenliste** und **-menge** entscheidend für den Erfolg der
-Zubereitung. Du kannst die Kochdauer jederzeit mit einer **Minecraft-Uhr**
-kontrollieren (Rechtsklick auf den Kessel). Ist das Getränk fertig gebraut,
-kannst du es mit **Glasflaschen** abfüllen. _Auf FarmLife können keine
-alkoholischen Getränke hergestellt werden. Der bekannte Prozess der Destillation
-und Reifung fällt daher hiermit weg._
+Nachdem du ein Rezept erlernt hast (z.B. über die **Küchenhilfe**), kannst du
+dieses an der **Getränkemaschine** neben dem **Apfelfeld** herstellen.
+
+1. Fülle dazu zunächst den **Wassertank** der Maschine auf.
+2. Hast du alle **Zutaten** dabei, kannst du eine entsprechende Produktion
+starten.
