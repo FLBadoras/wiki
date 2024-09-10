@@ -33,8 +33,8 @@ anderen Spielerinnen als auch dem [Support](/support) beantwortet werden.
 
 ### Auktions-Chat
 
-Im Auktions-Chat können Items versteigert werden. Man kann hier nur alle 10
-Minuten eine Nachricht senden. Rückmeldungen sind dann per Privatnachricht
+Im Auktions-Chat können Items versteigert werden. Man kann hier nur alle 60
+Sekunden eine Nachricht senden. Rückmeldungen sind auch per Privatnachricht
 möglich.
 
 ### Event-Chat
