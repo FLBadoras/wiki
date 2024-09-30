@@ -85,6 +85,7 @@ Die Datei sollte nach folgendem Schema benannt werden:
 4. Anschließend muss man noch die Dateiendung `.md` ergänzen.
 
 Hier ein beispielhaftes Team mit den zugehörigen Dateinamen:
+
 | Name | `section` | Dateiname |
 | ---- | --------- | --------- |
 | hubsi_hd | `misc` | `0-hubsi_hd.md` |
