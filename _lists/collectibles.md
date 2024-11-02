@@ -24,6 +24,7 @@ table:
 ---
 # {{ page.title }}
 
-Es gibt einige Dinge, die man auf Badoras sammeln kann. Hier findest du die Art der Objekte und wo du sie erhalten kannst.
+Es gibt einige Dinge, die man auf Badoras sammeln kann. Hier findest du die Art
+der Objekte und wo du sie erhalten kannst.
 
 {% include lists_table.md %}

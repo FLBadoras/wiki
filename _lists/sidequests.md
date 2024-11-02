@@ -28,6 +28,7 @@ table:
 ---
 # {{ page.title }}
 
-Neben der Hauptquest findest du einige kleinere Queststränge, durch die du Gegenstände erhalten oder Funktionen freischalten kannst.
+Neben der Hauptquest findest du einige kleinere Queststränge, durch die du
+Gegenstände erhalten oder Funktionen freischalten kannst.
 
 {% include lists_table.md %}

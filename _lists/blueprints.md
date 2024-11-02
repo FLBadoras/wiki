@@ -15,6 +15,7 @@ table:
 ---
 # {{ page.title }}
 
-Dies ist eine Übersicht über erhältliche Blueprints inklusive Vorschau des jeweiligen Objekts.
+Dies ist eine Übersicht über erhältliche Blueprints inklusive Vorschau
+des jeweiligen Objekts.
 
 {% include lists_table.md %}

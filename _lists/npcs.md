@@ -63,6 +63,7 @@ table:
 ---
 # {{ page.title }}
 
-Auf der Hauptinsel sind einige NPCs verteilt, die verschiedene Aufgaben innehaben. Ausgenommen sind hier Shop- und Hauptquest-NPCs.
+Auf der Hauptinsel sind einige NPCs verteilt, die verschiedene Aufgaben
+innehaben. Ausgenommen sind hier Shop- und Hauptquest-NPCs.
 
 {% include lists_table.md %}
