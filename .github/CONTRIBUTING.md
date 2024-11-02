@@ -139,3 +139,32 @@ Hier entsteht eine Liste von Farben.
 
 Eine Liste kann also entsprechend erweitert werden, indem neue Objekte ergänzt
 werden.
+
+Es ist möglich, Bilder in Listen anzuzeigen. Hierzu ein Beispiel:
+
+```md
+---
+short_name: sealife
+title: Meereswesen
+layout: default
+
+table:
+  headers:
+    - Meereswesen
+    - Gefunden von
+    - Fundort
+  objects:
+    - attributes:
+        - Feuerfisch
+        - motrellin
+        - "![grafik](/assets/images/wikibanner.jpg)"
+---
+# {{ page.title }}
+
+Viele verschiedene Wesen können z.B. am Hafen geangelt werden. Im Folgenden
+entsteht eine Liste an geangelten Wesen, die gerne erweitert werden darf.
+
+{% include lists_table.md %}
+```
+
+Es ist wichtig, die entsprechende Zeile in Anführungszeichen zu setzen.
