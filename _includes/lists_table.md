@@ -14,7 +14,7 @@ alphabetisch sortiert werden, bitte beim Einfügen beachten.
  <tr>
   {% for attr in object.attributes %}
   <td>
-   <center>{{ attr }}</center>
+   <center>{{ attr | markdownify }}</center>
   </td>
   {% endfor %}
  </tr>
