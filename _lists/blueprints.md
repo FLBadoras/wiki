@@ -6,11 +6,15 @@ table:
   headers:
     - Produkt
     - Kategorie
-    - Erforscht von
+    - Vorschau
   objects:
+    - attributes:
+        - Enderschild
+        - Waffen/Werkzeuge
+        - "![grafik](/assets/images/blueprints/w_enderschild.jpg)"
 ---
 # {{ page.title }}
 
-Hier entsteht eine Sammlung an bereits entdeckten Blueprints.
+Dies ist eine Übersicht über erhältliche Blueprints inklusive Vorschau des jeweiligen Objekts.
 
 {% include lists_table.md %}
