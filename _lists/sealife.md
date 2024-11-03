@@ -6,57 +6,219 @@ layout: default
 table:
   headers:
     - Meereswesen
-    - Gefunden von
-    - Fundort
+    - Seltenheit
+    - Vorkommen
   objects:
     - attributes:
+        - Alligatorhecht
+        - Normal
+        - SWAMP, SWAMP_HILLS
+    - attributes:
+        - Bachforelle
+        - Normal
+        - RIVER, FROZEN_RIVER
+    - attributes:
+        - Bachkrebs
+        - Normal
+        - RIVER, FROZEN_RIVER
+    - attributes:
+        - Barsch
+        - Normal
+        - ICE_SPIKES, SNOWY_BEACH, SNOWY_MOUNTAINS, SNOWY_TAIGA, SNOWY_TAIGA_HILLS, SNOWY_TAIGA_MOUNTAINS, SNOWY_TUNDRA, FROZEN_RIVER
+    - attributes:
+        - Big Billy Barsch
+        - Selten
+        - BIRCH_FOREST, BIRCH_FOREST_HILLS, FOREST, DARK_FOREST, DARK_FOREST_HILLS, FLOWER_FOREST
+    - attributes:
+        - Blaubarsch
+        - Normal
+        - RIVER, FROZEN_RIVER
+    - attributes:
+        - Crappie
+        - Normal
+        - RIVER, FROZEN_RIVER
+    - attributes:
+        - Dschungelwels
+        - Normal
+        - JUNGLE, JUNGLE_EDGE, JUNGLE_HILLS, MODIFIED_JUNGLE, MODIFIED_JUNGLE_EDGE
+    - attributes:
         - Feuerfisch
-        - motrellin
-        - Hauptinsel (Hafen)
+        - Normal
+        - OCEAN, COLD_OCEAN, DEEP_COLD_OCEAN, DEEP_FROZEN_OCEAN, DEEP_LUKEWARM_OCEAN, DEEP_OCEAN, DEEP_WARM_OCEAN, FROZEN_OCEAN, LUKEWARM_OCEAN, WARM_OCEAN
+    - attributes:
+        - Flunder
+        - Selten
+        - DESERT, DESERT_HILLS, DESERT_LAKES
+    - attributes:
+        - Flusskrebs
+        - Normal
+        - SWAMP, SWAMP_HILLS
+    - attributes:
+        - Flussmondfisch
+        - Normal
+        - RIVER, FROZEN_RIVER
+    - attributes:
+        - Forellenbarsch
+        - Normal
+        - BIRCH_FOREST, BIRCH_FOREST_HILLS, FOREST, DARK_FOREST, DARK_FOREST_HILLS, FLOWER_FOREST
+    - attributes:
+        - Frühjahrskiemenfuß
+        - Normal
+        - DESERT, DESERT_HILLS, DESERT_LAKES
     - attributes:
         - Garnele
-        - motrellin
-        - Hauptinsel (Hafen)
+        - Normal
+        - Überall
+    - attributes:
+        - Goliath-Zackenbarsch
+        - Selten
+        - OCEAN, COLD_OCEAN, DEEP_COLD_OCEAN, DEEP_FROZEN_OCEAN, DEEP_LUKEWARM_OCEAN, DEEP_OCEAN, DEEP_WARM_OCEAN, FROZEN_OCEAN, LUKEWARM_OCEAN, WARM_OCEAN
+    - attributes:
+        - Groppenwels
+        - Normal
+        - BIRCH_FOREST, BIRCH_FOREST_HILLS, FOREST, DARK_FOREST, DARK_FOREST_HILLS, FLOWER_FOREST
+    - attributes:
+        - Großer Arapaima
+        - Selten
+        - JUNGLE, JUNGLE_EDGE, JUNGLE_HILLS, MODIFIED_JUNGLE, MODIFIED_JUNGLE_EDGE
+    - attributes:
+        - Grüner Pacu
+        - Normal
+        - JUNGLE, JUNGLE_EDGE, JUNGLE_HILLS, MODIFIED_JUNGLE, MODIFIED_JUNGLE_EDGE
+    - attributes:
+        - Hecht
+        - Normal
+        - ICE_SPIKES, SNOWY_BEACH, SNOWY_MOUNTAINS, SNOWY_TAIGA, SNOWY_TAIGA_HILLS, SNOWY_TAIGA_MOUNTAINS, SNOWY_TUNDRA, FROZEN_RIVER
+    - attributes:
+        - Kabeljau
+        - Normal
+        - Überall
     - attributes:
         - Kaviar
-        - Agent_cake_HD
-        - Teich bei Lieferpunkt 6
+        - Selten
+        - Überall
+    - attributes:
+        - Kirschgarnele
+        - Normal
+        - ICE_SPIKES, SNOWY_BEACH, SNOWY_MOUNTAINS, SNOWY_TAIGA, SNOWY_TAIGA_HILLS, SNOWY_TAIGA_MOUNTAINS, SNOWY_TUNDRA, FROZEN_RIVER, FROZEN_OCEAN, DEEP_FROZEN_OCEAN
     - attributes:
         - Krabbe
-        - Agent_cake_HD
-        - Teich bei Lieferpunkt 6
+        - Normal
+        - Überall
     - attributes:
         - Kugelfisch
-        - motrellin
-        - Hauptinsel (Hafen)
+        - Selten
+        - Überall
+    - attributes:
+        - Lachs
+        - Normal
+        - Überall
+    - attributes:
+        - Mandarinfisch
+        - Normal
+        - JUNGLE, JUNGLE_EDGE, JUNGLE_HILLS, MODIFIED_JUNGLE, MODIFIED_JUNGLE_EDGE
     - attributes:
         - Muschel
-        - Agent_cake_HD
-        - Teich gegenüber Großhandel
+        - Selten
+        - Überall
+    - attributes:
+        - Piranha
+        - Normal
+        - JUNGLE, JUNGLE_EDGE, JUNGLE_HILLS, MODIFIED_JUNGLE, MODIFIED_JUNGLE_EDGE
+    - attributes:
+        - Sandfisch
+        - Normal
+        - DESERT, DESERT_HILLS, DESERT_LAKES
     - attributes:
         - Sardelle
-        - Agent_cake_HD
-        - Farminsel (Hafen)
+        - Normal
+        - OCEAN, COLD_OCEAN, DEEP_COLD_OCEAN, DEEP_FROZEN_OCEAN, DEEP_LUKEWARM_OCEAN, DEEP_OCEAN, DEEP_WARM_OCEAN, FROZEN_OCEAN, LUKEWARM_OCEAN, WARM_OCEAN
+    - attributes:
+        - Schlammkarpfen
+        - Normal
+        - SWAMP, SWAMP_HILLS
+    - attributes:
+        - Schleimiger Wels
+        - Selten
+        - SWAMP, SWAMP_HILLS
     - attributes:
         - Seetang
-        - motrellin
-        - Hauptinsel (Hafen)
+        - Normal
+        - Überall
+    - attributes:
+        - Seezunge
+        - Normal
+        - ICE_SPIKES, SNOWY_BEACH, SNOWY_MOUNTAINS, SNOWY_TAIGA, SNOWY_TAIGA_HILLS, SNOWY_TAIGA_MOUNTAINS, SNOWY_TUNDRA, FROZEN_RIVER
+    - attributes:
+        - Skorpionkarpfen
+        - Normal
+        - DESERT, DESERT_HILLS, DESERT_LAKES
+    - attributes:
+        - Stör
+        - Normal
+        - ICE_SPIKES, SNOWY_BEACH, SNOWY_MOUNTAINS, SNOWY_TAIGA, SNOWY_TAIGA_HILLS, SNOWY_TAIGA_MOUNTAINS, SNOWY_TUNDRA, FROZEN_RIVER
+    - attributes:
+        - Strahlende Regenbogenforelle
+        - Selten
+        - RIVER, FROZEN_RIVER
+    - attributes:
+        - Sumpfmondfisch
+        - Normal
+        - SWAMP, SWAMP_HILLS
+    - attributes:
+        - Sumpfwels
+        - Normal
+        - SWAMP, SWAMP_HILLS
     - attributes:
         - Thunfisch
-        - Agent_cake_HD
-        - Farminsel (Hafen)
+        - Normal
+        - OCEAN, COLD_OCEAN, DEEP_COLD_OCEAN, DEEP_FROZEN_OCEAN, DEEP_LUKEWARM_OCEAN, DEEP_OCEAN, DEEP_WARM_OCEAN, FROZEN_OCEAN, LUKEWARM_OCEAN, WARM_OCEAN
     - attributes:
-        - Tintenfisch
-        - motrellin
-        - Hauptinsel (Hafen)
+        - Tigerforelle
+        - Normal
+        - BIRCH_FOREST, BIRCH_FOREST_HILLS, FOREST, DARK_FOREST, DARK_FOREST_HILLS, FLOWER_FOREST
     - attributes:
         - Tilapia
-        - motrellin
-        - Hauptinsel (Hafen)
+        - Normal
+        - OCEAN, COLD_OCEAN, DEEP_COLD_OCEAN, DEEP_FROZEN_OCEAN, DEEP_LUKEWARM_OCEAN, DEEP_OCEAN, DEEP_WARM_OCEAN, FROZEN_OCEAN, LUKEWARM_OCEAN, WARM_OCEAN
+    - attributes:
+        - Tintenfisch
+        - Normal
+        - OCEAN, COLD_OCEAN, DEEP_COLD_OCEAN, DEEP_FROZEN_OCEAN, DEEP_LUKEWARM_OCEAN, DEEP_OCEAN, DEEP_WARM_OCEAN, FROZEN_OCEAN, LUKEWARM_OCEAN, WARM_OCEAN
+    - attributes:
+        - Tödlicher Seehecht
+        - Selten
+        - ICE_SPIKES, SNOWY_BEACH, SNOWY_MOUNTAINS, SNOWY_TAIGA, SNOWY_TAIGA_HILLS, SNOWY_TAIGA_MOUNTAINS, SNOWY_TUNDRA, FROZEN_RIVER
+    - attributes:
+        - Tropenfisch
+        - Selten
+        - Überall
+    - attributes:
+        - Waldflusskrebs
+        - Normal
+        - BIRCH_FOREST, BIRCH_FOREST_HILLS, FOREST, DARK_FOREST, DARK_FOREST_HILLS, FLOWER_FOREST
+    - attributes:
+        - Waldmondfisch
+        - Normal
+        - BIRCH_FOREST, BIRCH_FOREST_HILLS, FOREST, DARK_FOREST, DARK_FOREST_HILLS, FLOWER_FOREST
+    - attributes:
+        - Welpenfisch
+        - Normal
+        - DESERT, DESERT_HILLS, DESERT_LAKES
+    - attributes:
+        - Wüstenmondfisch
+        - Normal
+        - DESERT, DESERT_HILLS, DESERT_LAKES
+    - attributes:
+        - Zitteraal
+        - Normal
+        - JUNGLE, JUNGLE_EDGE, JUNGLE_HILLS, MODIFIED_JUNGLE, MODIFIED_JUNGLE_EDGE
 ---
 # {{ page.title }}
 
-Viele verschiedene Wesen können z.B. am Hafen geangelt werden. Im Folgenden
-entsteht eine Liste an geangelten Wesen, die gerne erweitert werden darf.
+Viele verschiedene Wesen können in verschiedenen Biomen geangelt werden.
+In welchen Biomen du sie fischen kannst, findest du hier.
+
+_Tipp: Manche Gegenstände wie Seetang findest du auch beim [Korallentauchen](/lists/corals)._
 
 {% include lists_table.md %}
