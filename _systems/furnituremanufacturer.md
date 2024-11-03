@@ -2,21 +2,14 @@
 short_name: factory
 title: Fabrik
 layout: default
-
-table:
-  headers:
-    - Loot
-    - Fundort
-  objects:
-    - attributes:
-        - Amethystknospen
-        - Dungeontruhen
 ---
 # {{ page.title }}
 
-Die Fabrik dient als Herstellungsort für Materialien und [Blueprints](/systems/blueprints).
-Außerdem befindet sich die [Möbelmanufaktur](/systems/furnituremanufacturer) auf dem Gelände.
+Auf dem Gelände der [Fabrik](/systems/factory) befindet sich die Möbelmanufaktur.
+Dort kannst du mit dem Einsatz von Geld und Materialien (wie Holz oder
+Goldbarren) Möbel und Dekorationen herstellen. Auch unsichtbare Rahmen
+kannst du dort erwerben.
 
-## Befehle
-
-{% include lists_table.md %}
+Anfangs sind nicht alle Kategorien der Möbelmanufaktur nutzbar.
+Du musst sie im [Schulungszentrum](/systems/school) nach und nach freischalten, um alle
+Möbel und Gegenstände herstellen zu können.
