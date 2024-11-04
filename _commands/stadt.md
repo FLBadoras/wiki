@@ -1,6 +1,6 @@
 ---
 command: "/stadt"
-description: "Allgemeinbefehl für alles, was Städte auf Okuta betrifft. Öffnet das Städtemenü."
+description: "Befehl für alles, was Städte auf Okuta betrifft. Öffnet das Städtemenü."
 system: okuta
 layout: default
 ---
