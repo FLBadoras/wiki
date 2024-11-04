@@ -6,7 +6,7 @@ layout: default
 # {{ page.title }}
 
 Du benötigst zum Überleben Speisen und Getränke, die du dir zum Beispiel im
-_Supermarkt Foodoras_ kaufen kannst. Mit den richtigen Rezepten kannst du aber
+_Supermarkt Foodoras_ kaufen kannst. Mit den richtigen [Rezepten](/lists/recipes) kannst du aber
 auch alle davon selbst herstellen (bis auf alkoholische Getränke). Dir stehen
 über 300 Rezepte zur Verfügung!
 
