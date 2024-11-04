@@ -1,6 +1,6 @@
 ---
-short_name: shops
-title: Shops
+short_name: playershops
+title: Spielershops
 layout: default
 ---
 # {{ page.title }}
