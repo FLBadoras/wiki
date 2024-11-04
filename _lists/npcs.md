@@ -29,7 +29,7 @@ table:
         - Obdachloser in Höhle
         - Geheimer Fundort
         - Tägliche Aufgabe mit anschließendem Geschenk
-        - Wie Mülleimer (Schallplatten, Nützliches, Müll)
+        - Wie Mülleimer (Schallplatten, Nützliches, Müll), Einzigartige Rezepte
     - attributes:
         - Hiroshi Tanaka
         - Einsame Hütte nahe der Fabrik
