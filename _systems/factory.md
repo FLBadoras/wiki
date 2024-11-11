@@ -54,12 +54,12 @@ für die Produktion von Materialien erwerben. Klicke auf die jeweilige Lizenz,
 um die geforderten Rohstoffe abzugeben. Du erhältst für jede erworbene Lizenz
 eine zufällige Bezahlung vom NPC.
 
-Du kannst bei ihm auch Kassiterit aus der [Mine](/jobs/mine) verkaufen. Dafür musst du
-das Kassiterit vorher in einer Werkbank allerdings zu Kassiteritblöcken
+Du kannst bei ihm auch Kassiterit aus der [Mine](/jobs/mine) verkaufen. Dafür musst
+du allerdings das Kassiterit vorher in einer Werkbank zu Kassiteritblöcken
 verarbeiten. Im Durchschnitt erhältst du von ihm 9 Euro pro Kassiteritblock,
 wobei der genaue Preis tagesabhängig ist und stark schwankt.
-_Tipp: Es lohnt sich also, die Preise im Blick zu behalten und zum richtigen_
-_Zeitpunkt zu verkaufen, sofern du nicht auf das schnelle Geld angewiesen bist._
+_Tipp: Es lohnt sich, die dynamischen Preise im Blick zu behalten und zum richtigen_
+_Zeitpunkt zu verkaufen, sofern du nicht auf schnelles Geld angewiesen bist._
 
 ## Materialien
 

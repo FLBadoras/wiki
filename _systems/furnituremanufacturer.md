@@ -1,6 +1,6 @@
 ---
-short_name: factory
-title: Fabrik
+short_name: furnituremanufacturer
+title: Möbelmanufaktur
 layout: default
 ---
 # {{ page.title }}

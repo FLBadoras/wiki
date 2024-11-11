@@ -1,6 +1,6 @@
 ---
 short_name: corals
-title: Chat
+title: Korallentauchen
 layout: default
 
 table:
@@ -37,7 +37,7 @@ table:
 
 Rund um die beiden Inseln von Badoras kann man jederzeit Korallen im Meer
 mit der Hand abbauen. Man findet dort allerlei Items, manche nützlich und
-wertvoll, andere wiederum können zum kochen genutzt werden.
+wertvoll, andere wiederum können zum Kochen genutzt werden.
 
 Es empfiehlt sich der Einsatz einer Taucherbrille, damit man länger
 Unterwasser bleiben und Korallen ernten kann. Die Taucherbrille ist
@@ -48,4 +48,4 @@ _während man die Korallen erntet._
 
 ## Loot
 
-{% include selected_cmds.md %}
+{% include lists_table.md %}

@@ -29,6 +29,8 @@ Tafeln im ersten Obergeschoss und klicke sie an.
 Bei der Mitarbeiterin im unteren Raum hast du einen Überblick über deine
 freigeschalteten Perks und vorhandenen Wissenspunkte.
 
+_Tipp: Deine Perk-Übersicht findest du auch unter [/info](/commands/info)._
+
 ## Ablauf
 
 Jede Schulung benötigt neben Wissenspunkten eine gewisse Menge an Material,
@@ -41,11 +43,15 @@ _Tipp: Hier kannst du auch weitere Kategorien der [Möbelmanufaktur](/systems/fu
 
 ## Wissenspunkte
 
-Wissenspunkt erhältst du durch das Nutzen von Wissensbüchern. Diese kannst du
+Wissenspunkte erhältst du durch das Nutzen von Wissensbüchern. Diese kannst du
 entweder finden/erhalten oder dir selbst herstellen. Dafür benötigst du
 Wissensfragmente. Es gibt hier drei verschiedene Rezepte, die du herausfinden
-kannst, um dir Wissensbücher herzustellen.
+kannst, um Wissensbücher herzustellen.
 
 Hier findest du Wissensfragmente und -bücher:
-
-{% include lists_table.md %}
+- Dungeons
+- Farmwelttruhen
+- Jobs (Mine, Plantagen)
+- Kiosk
+- Korallentauchen
+- Schrottplatz
