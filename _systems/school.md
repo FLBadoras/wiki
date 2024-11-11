@@ -49,6 +49,7 @@ Wissensfragmente. Es gibt hier drei verschiedene Rezepte, die du herausfinden
 kannst, um Wissensbücher herzustellen.
 
 Hier findest du Wissensfragmente und -bücher:
+
 - Dungeons
 - Farmwelttruhen
 - Jobs (Mine, Plantagen)
