@@ -5,7 +5,7 @@ layout: default
 ---
 # {{ page.title }}
 
-Man unterscheidet zwischen Wohngrundstücken und [Shopgrundstücken](/systems/shops).
+Man unterscheidet zwischen Wohngrundstücken und [Shopgrundstücken](/systems/playershops).
 
 Wohngrundstücke sind dein persönliches Zuhause. Du kannst sie gestalten und
 nutzen wie du möchtest (solange alle [Bauregeln](https://www.badoras.life/regelwerk) eingehalten werden). Bewahre
@@ -19,7 +19,7 @@ hängen von deren Größe ab und variieren stark.
 _Beachte: Du darfst laut [Regelwerk](https://www.badoras.life/regelwerk) nur ein Wohngrundstück zeitgleich_
 _besitzen. Also nur einen Garten oder ein Farmgrundstück. Ein Shop zählt nicht dazu._
 
-[Shopgrundstücke](/systems/shops) kann man nur mieten. Dabei wird eine Grundmiete von 300 Euro pro
+[Shopgrundstücke](/systems/playershops) kann man nur mieten. Dabei wird eine Grundmiete von 300 Euro pro
 Woche fällig und man kann den Shop maximal für 2 Monate im Voraus mieten.
 
 _Es gibt 75 Schrebergärten, 64 Farmgrundstücke und 27 Shops._

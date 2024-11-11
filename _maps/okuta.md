@@ -17,7 +17,7 @@ du das Ticket in der Hand hältst.
 Im großen Hauptgebäude der Insel findest du neben dem Bürgerbüro auch den
 Heißluftballon-Bahnhof, an dem du zu den einzelnen Spielerstädten reisen kannst.
 
-Eine Übersicht über die Insel findest du auf der [Livekarte](/commands/karte).
+Eine Übersicht über die Insel findest du auf der [Livekarte](http://karte.badoras.life/).
 
 ## Zweck
 
@@ -43,8 +43,8 @@ sein.
 Gründet man eine Stadt, kann man daraufhin Mitspieler einladen, Bürger in
 jener Stadt zu werden. Sie erhalten daraufhin Baurechte und können dabei
 helfen, das Projekt zu realisieren. Du kannst auch Rollen verteilen, die
-du vorher selbst einstellen kannst. Bürgermeister können dann bei der
-Verwaltung der Stadt helfen, während Architekten für das Bauen verantwortlich
+du vorher selbst einstellen kannst. Bürgermeister können dann beispielsweise bei
+der Verwaltung der Stadt helfen, während Architekten für das Bauen verantwortlich
 sind. Deiner Fantasie sind hier keine Grenzen gesetzt.
 
 Bei der Gründung deiner Stadt erhältst du 12 Chunks zur freien Verfügung.
