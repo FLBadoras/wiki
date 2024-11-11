@@ -21,7 +21,8 @@ des jeweiligen Objekts.
 ## Allgemeines
 
 Blueprints sind eine Möglichkeit, Möbel, Waffen, Rüstungen und kosmetische
-Gegenstände herzustellen. Du erhältst Blueprints unter anderem von [NPCs](/lists/npcs)
+Gegenstände herzustellen. Du erhältst Blueprints unter anderem von
+[NPCs](/lists/npcs)
 oder aus der Mine.
 
 _Übrigens: Es gibt auch regelmäßig zeitexklusive Event-Blueprints_
@@ -33,7 +34,8 @@ gültig und wird bei der Produktion des Items zerstört.
 
 ## Herstellung
 
-Produzieren kann man Gegenstände aus Blueprints an der [Fabrik](/systems/factory). Im Gebäude mit
+Produzieren kann man Gegenstände aus Blueprints an der
+[Fabrik](/systems/factory). Im Gebäude mit
 der Aufschrift "Herstellung" befinden sich mehrere Geräte, die genutzt werden
 können.
 

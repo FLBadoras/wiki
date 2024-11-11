@@ -118,7 +118,8 @@ table:
 ---
 # {{ page.title }}
 
-Auf der Insel sind verschiedene Shops verteilt. Hier kannst du verschiedene Dinge
+Auf der Insel sind verschiedene Shops verteilt. Hier kannst du verschiedene
+Dinge
 kaufen und verkaufen.
 
 _Tipp: Du findest die Standorte der Shops auch auf der [Livekarte](http://karte.badoras.life/)._

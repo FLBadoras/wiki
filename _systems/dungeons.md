@@ -83,7 +83,8 @@ heimtückische Fallen und wähle deinen Loot am Ende selbst.
 ## Allgemeines
 
 Es gibt verschiedene Dungeons, die gespielt werden können. Die Zugänge
-findest du in der Dungeonhöhle auf der Pirateninsel ([Karte](http://karte.badoras.life/)).
+findest du in der Dungeonhöhle auf der Pirateninsel
+([Karte](http://karte.badoras.life/)).
 Um zur Pirateninsel zu gelangen, musst du die Piratenquest am Außenposten
 erledigen und mit dem Piratenschiff zur Insel reisen.
 Die verschiedenen Dungeons werden in unterschiedliche Schwierigkeitsgrade
@@ -112,9 +113,11 @@ bestehen zu können.
 
 Mit den im Dungeon gesammelten Piratenmünzen kannst du auf der Pirateninsel
 shoppen gehen. Im Piratenshop kannst du damit Möbel, Dekogegenstände, Waffen,
-[Sammelobjekte](/lists/collectibles) und [Blueprints](/systems/blueprints) erwerben.
+[Sammelobjekte](/lists/collectibles) und [Blueprints](/systems/blueprints)
+erwerben.
 Desweiteren gibt es die Fischerhütte, in der du mit den Piratenmünzen
-Essensrezepte erwerben kannst. Diese erscheinen dann unter [/info](/commands/info)
+Essensrezepte erwerben kannst. Diese erscheinen dann unter
+[/info](/commands/info)
 und in deinem Minecraft-Rezeptbuch.
 
 ## Loot

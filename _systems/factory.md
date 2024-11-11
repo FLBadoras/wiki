@@ -43,9 +43,12 @@ table:
 ---
 # {{ page.title }}
 
-Die Fabrik dient als Herstellungsort für Materialien und [Blueprints](/systems/blueprints). Außerdem
-befindet sich die [Möbelmanufaktur](/systems/furnituremanufacturer) und ein Vorarbeiter auf dem Gelände,
-bei dem man Lizenzen erwerben und Kassiterit aus der [Mine](/jobs/mine) verkaufen kann.
+Die Fabrik dient als Herstellungsort für Materialien und
+[Blueprints](/systems/blueprints). Außerdem
+befindet sich die [Möbelmanufaktur](/systems/furnituremanufacturer) und ein
+Vorarbeiter auf dem Gelände,
+bei dem man Lizenzen erwerben und Kassiterit aus der [Mine](/jobs/mine)
+verkaufen kann.
 
 ## Vorarbeiter
 
@@ -54,11 +57,13 @@ für die Produktion von Materialien erwerben. Klicke auf die jeweilige Lizenz,
 um die geforderten Rohstoffe abzugeben. Du erhältst für jede erworbene Lizenz
 eine zufällige Bezahlung vom NPC.
 
-Du kannst bei ihm auch Kassiterit aus der [Mine](/jobs/mine) verkaufen. Dafür musst
+Du kannst bei ihm auch Kassiterit aus der [Mine](/jobs/mine) verkaufen.
+Dafür musst
 du allerdings das Kassiterit vorher in einer Werkbank zu Kassiteritblöcken
 verarbeiten. Im Durchschnitt erhältst du von ihm 9 Euro pro Kassiteritblock,
 wobei der genaue Preis tagesabhängig ist und stark schwankt.
-_Tipp: Es lohnt sich, die dynamischen Preise im Blick zu behalten und zum richtigen_
+_Tipp: Es lohnt sich, die dynamischen Preise im Blick zu behalten und zum
+richtigen_
 _Zeitpunkt zu verkaufen, sofern du nicht auf schnelles Geld angewiesen bist._
 
 ## Materialien
@@ -72,5 +77,6 @@ die man auf unterschiedliche Art und Weise erhält.
 
 {% include lists_table.md %}
 
-_Übrigens: Bei der Entnahme von Materialien erhält man auch eine bestimmte Menge_
+_Übrigens: Bei der Entnahme von Materialien erhält man auch eine bestimmte
+Menge_
 _Erfahrungspunkte gutgeschrieben._
