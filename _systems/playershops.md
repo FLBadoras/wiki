@@ -5,7 +5,8 @@ layout: default
 ---
 # {{ page.title }}
 
-Auf der Farminsel kannst du dir ein [Shopgrundstück](/systems/gs) mieten. Dort kannst du dann
+Auf der Farminsel kannst du dir ein [Shopgrundstück](/systems/gs) mieten. Dort
+kannst du dann
 Shopkisten erstellen und darin Gegenstände ver- oder ankaufen. Es gibt
 insgesamt 27 mietbare Shopgrundstücke, welche du nach Belieben gestalten darfst.
 
@@ -32,7 +33,8 @@ Um eine Shopkiste zu entfernen, baue sie einfach ab.
 Du wirst regelmäßig darüber informiert, wenn Spieler etwas in deinem Shop
 gekauft haben oder wenn deine Shopkiste ausverkauft ist.
 
-Außerdem gibt es die Möglichkeit, [Mitarbeiter](/commands/shop_staff) für jede einzelne Shopkiste zu
+Außerdem gibt es die Möglichkeit, [Mitarbeiter](/commands/shop_staff) für jede
+einzelne Shopkiste zu
 ernennen. Diese können dann auf sie zugreifen, sie auffüllen und ihre
 Einstellungen anpassen.
 
