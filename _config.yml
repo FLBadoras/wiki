@@ -31,6 +31,9 @@ collections:
   lists:
     permalink: "/:collection/:path/"
     output: true
+  maps:
+    permalink: "/:collection/:path/"
+    output: true
 
 just_the_docs:
   collections:
@@ -42,6 +45,9 @@ just_the_docs:
       nav_fold: true
     lists:
       name: Listen
+      nav_fold: true
+    maps:
+      name: Maps
       nav_fold: true
 
 callouts:

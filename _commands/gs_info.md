@@ -1,6 +1,6 @@
 ---
 command: "/gs info"
-description: "Erhalte Informationen über deine eigenen Grundstücke. Hier siehst du ebenfalls, auf welchen anderen Grundstücken du Baurechte erhalten hast."
+description: "Öffne dein personalisiertes Grundstücks-Menü. Hier kannst du Einstellungen vornehmen."
 aliases: ["/grundstück info","/grundstücke info"]
 system: gs
 layout: default

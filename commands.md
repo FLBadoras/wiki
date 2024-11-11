@@ -38,7 +38,7 @@ werden!
    <center><pre>{{ command.command }}</pre></center>
   </td>
   <td>
-   <center>{{ command.description }}</center>
+   <center>{{ command.description | markdownify }}</center>
   </td>
   <td>
    {% for alias in command.aliases %}

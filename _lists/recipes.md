@@ -10,8 +10,13 @@ table:
 ---
 # {{ page.title }}
 
-Hier entsteht eine Sammlung an bereits erforschten Rezepten, damit zumindest
-bekannt ist, welche Rezepte erforscht werden können.
+Rezepte für Nahrungsmittel und andere Dinge erhältst du unter anderem bei
+[NPCs](/lists/npcs) oder durch eigene [Forschung](/systems/fooddrinks).
+
+## Rezeptliste
+
+Hier entsteht eine spielerseitige Sammlung an bereits erforschten Rezepten,
+damit zumindest bekannt ist, welche Rezepte erforscht werden können.
 
 {: .note :}
 Wichtig: Wir wollen hier keine öffentliche Liste erstellen, wie einzelne Rezepte
