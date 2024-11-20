@@ -7,6 +7,15 @@ table:
     - Produkt
     - Erforscht von
   objects:
+    - attributes:
+      - Hawaiitoast
+      - KleinesBirgit
+    - attributes:
+      - Tomatensuppe
+      - KleinesBirgit
+    - attributes:
+      - Auberginen-Parmigiana
+      - KleinesBirgit
 ---
 # {{ page.title }}
 
