@@ -250,9 +250,6 @@ table:
     - attributes:
       - Weißer Schokoladen-Beeren-Cookie
       - KleinesBirgit
-    - attributes:
-      -
-      - KleinesBirgit
 ---
 # {{ page.title }}
 
