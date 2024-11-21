@@ -17,6 +17,9 @@ table:
       - BBQ Hähnchen-Sandwich
       - KleinesBirgit
     - attributes:
+      - Beerenmus
+      - KleinesBirgit
+    - attributes:
       - BLT-Sandwich
       - KleinesBirgit
     - attributes:
@@ -65,6 +68,9 @@ table:
       - Erdbeer-Sandwich
       - KleinesBirgit
     - attributes:
+      - Fischbrötchen
+      - KleinesBirgit
+    - attributes:
       - French Toast
       - KleinesBirgit
     - attributes:
@@ -83,7 +89,13 @@ table:
       - Gefüllte Rote Paprika
       - KleinesBirgit
     - attributes:
+      - Gefülltes Hühnchen
+      - KleinesBirgit
+    - attributes:
       - Gegrilltes Käse-Sandwich
+      - KleinesBirgit
+    - attributes:
+      - Gemüsebowl
       - KleinesBirgit
     - attributes:
       - Geräucherte Tigerforelle
@@ -155,6 +167,9 @@ table:
       - Kürbis-Muffin
       - KleinesBirgit
     - attributes:
+      - Leckere Eistüte
+      - KleinesBirgit
+    - attributes:
       - Limettenkuchen
       - KleinesBirgit
     - attributes:
@@ -168,6 +183,9 @@ table:
       - KleinesBirgit
     - attributes:
       - Obstsalat
+      - KleinesBirgit
+    - attributes:
+      - Obstschale
       - KleinesBirgit
     - attributes:
       - Obstspieß
