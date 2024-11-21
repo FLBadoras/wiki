@@ -470,3 +470,7 @@ Hier findest du Wissensfragmente und -bücher:
 - Kiosk
 - Korallentauchen
 - Schrottplatz
+
+## Schulungen
+
+{% include lists_table.md %}
