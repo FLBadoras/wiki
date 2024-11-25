@@ -31,6 +31,11 @@ table:
         - Tägliche Aufgabe mit anschließendem Geschenk
         - Wie Mülleimer (Schallplatten, Nützliches, Müll), Einzigartige Rezepte
     - attributes:
+        - Küchenhilfe John
+        - Lager Hulu Lulu Bar
+        - Tägliches Rezept
+        - Rezepte
+    - attributes:
         - Hiroshi Tanaka
         - Einsame Hütte nahe der Fabrik
         - Random NPC mit täglichem Geschenk
