@@ -11,15 +11,15 @@ table:
   objects:
     - attributes:
         - Schallplatten
-        - Farmweltkisten, Dungeons, Mülleimer, Blueprints
+        - Farmweltkisten, Dungeons, Mülleimer, Blueprints, Airdrops, Piratenshop
         - 45
     - attributes:
         - Sammelfiguren
-        - Farmweltkisten, Dungeons
-        - 40
+        - Farmweltkisten, Dungeons, Airdrops, Piratenshop
+        - 50
     - attributes:
         - Plüschtierhunde
-        - Piratenshop
+        - Piratenshop, Blueprints
         - 6
 ---
 # {{ page.title }}
