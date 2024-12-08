@@ -36,5 +36,5 @@ Generell ist es immer möglich, ein eigenes Boot zu platzieren und damit zu
 reisen. Zwischen Haupt- und Farminsel gibt es zudem ein Transferboot, das
 auch als Reisepunkt in die [Farmwelten](/maps/farmwelten) dient.
 
-Zur Rennstrecke gibt es während eines vom [Serverteam](/team_members) veranstalteten Renn-Events
+Zur Rennstrecke gibt es während eines vom [Serverteam](/team) veranstalteten Renn-Events
 ebenfalls ein Transferboot, das man kostenfrei nutzen kann.
