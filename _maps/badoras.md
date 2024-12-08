@@ -5,7 +5,8 @@ layout: default
 ---
 # {{ page.title }}
 
-Badoras ist der Ort, an dem die Geschichte des Servers spielt, an dem die meisten
+Badoras ist der Ort, an dem die Geschichte des Servers spielt, an dem die
+meisten
 Einkaufsmöglichkeiten zu finden sind und alle Spieler ihr Zuhause finden.
 
 ## Aufbau
@@ -23,8 +24,10 @@ Die Farminsel beherbergt alle Schrebergärten, Farmgrundstücke und Spielershops
 Hier können Spieler ihr Zuhause aufbauen und Handel treiben.
 
 Auf einer kleinen Mini-Insel direkt neben der Hauptinsel befindet sich der
-Piraten-Außenposten. Sie dient als Startpunkt für die [Dungeons](/systems/dungeons), indem
-man die hier auffindbare Piratenquest beim entsprechenden [NPC](/lists/npcs) startet.
+Piraten-Außenposten. Sie dient als Startpunkt für die
+[Dungeons](/systems/dungeons), indem
+man die hier auffindbare Piratenquest beim entsprechenden [NPC](/lists/npcs)
+startet.
 
 Eine Übersicht über die Inseln findest du auf der
 [Livekarte](http://karte.badoras.life/).
@@ -36,5 +39,6 @@ Generell ist es immer möglich, ein eigenes Boot zu platzieren und damit zu
 reisen. Zwischen Haupt- und Farminsel gibt es zudem ein Transferboot, das
 auch als Reisepunkt in die [Farmwelten](/maps/farmwelten) dient.
 
-Zur Rennstrecke gibt es während eines vom [Serverteam](/team) veranstalteten Renn-Events
+Zur Rennstrecke gibt es während eines vom [Serverteam](/team) veranstalteten
+Renn-Events
 ebenfalls ein Transferboot, das man kostenfrei nutzen kann.

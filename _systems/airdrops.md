@@ -76,7 +76,8 @@ table:
 
 ## Funktion
 
-In regelmäßigen Abständen werden Lootkisten in der [Farmwelt](/maps/farmwelten) abgeworfen.
+In regelmäßigen Abständen werden Lootkisten in der [Farmwelt](/maps/farmwelten)
+abgeworfen.
 Die Spieler erhalten eine akustische Benachrichtigung und die letzten
 verfügbaren Koordinaten nach dem Abwurf als Nachricht in den Chat. Die Kiste
 landet in einem Umkreis von 150 Metern rund um die Koordinaten, Spieler
@@ -85,7 +86,8 @@ um die Kiste zu finden, bevor sie wieder verschwindet.
 
 Die erste Spielerin, die die Kiste öffnet, erhält den darin befindlichen Loot.
 
-_Tipp: Die Statistiken zu den Airdrops findest du wie gehabt in den [Serverstats](/commands/serverstats)._
+_Tipp: Die Statistiken zu den Airdrops findest du wie gehabt in den
+[Serverstats](/commands/serverstats)._
 
 ### Loot
 

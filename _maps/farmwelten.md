@@ -122,7 +122,8 @@ in welcher man ebenfalls Blöcke und Materialien erhalten kann.
 ## Loot
 
 In allen Lootkisten der Farmwelten finden sich neben den üblichen Dingen
-allerlei neue Items wie [Fabrikmaterialien](/systems/factory) oder [Dungeonschlüssel](/systems/dungeons).
+allerlei neue Items wie [Fabrikmaterialien](/systems/factory) oder
+[Dungeonschlüssel](/systems/dungeons).
 Die Wahrscheinlichkeiten der einzelnen Items variiert je nach Ort, an dem
 die Kisten stehen. Dies sind die durchschnittlichen Wahrscheinlichkeiten:
 
@@ -133,7 +134,8 @@ Außerdem finden regelmäßige [Airdrops](/systems/airdrops) in der Farmwelt sta
 ## Reisen
 
 In die Farmwelten reist man per Transferboot auf Haupt- oder Farminsel
-von [Badoras](/maps/badoras). Eine Reise kostet 5€ (Farmwelt) bzw. 8€ (Netherwelt).
+von [Badoras](/maps/badoras). Eine Reise kostet 5€ (Farmwelt) bzw. 8€
+(Netherwelt).
 
 ## Reset
 
