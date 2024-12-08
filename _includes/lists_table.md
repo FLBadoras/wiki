@@ -1,7 +1,3 @@
-{: .contributing }
-Die folgende Liste darf gerne erweitert werden! Wichtig: Die Einträge sollen
-alphabetisch sortiert werden, bitte beim Einfügen beachten.
-
 <table>
  <tr>
   {% for header in page.table.headers %}
